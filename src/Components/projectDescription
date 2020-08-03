@@ -1,0 +1,25 @@
+
+This project is an Instagram Clone.
+It is made for modbile device and is responsive around all the mobile devices.
+
+It shows the upser's display pic with the details of 
+posts, followers ect and a follow button.
+It shows the Name and Bio of the user just like in Instagram.
+
+It has a button to call the user.
+
+It has a gallery of images uploaded by the user.
+I have hardcoded the data in the code but normally this data should be fetched from api and displayed on the UI.
+
+It has a fixed div as in Instagram towards the bottom.
+
+Functionality -
+
+Upon clicking on any image in the image gallery, a new modal opens up to show the bigger size of the image along with details like number of likes and comments.
+
+Upon clicking on likes or the image the likes will increase by 1.(The likes should be fetched from and saved into the database)
+
+There is a input section with a post button to post the comments.
+
+The page is scrollable as in instagram.
+
